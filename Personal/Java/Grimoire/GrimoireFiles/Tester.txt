@@ -1,0 +1,42 @@
+Name: Tester
+Class: Programmer
+Level: 255
+Strength: 0
+Dexterity: 15
+Constitution: 7
+Intelligence: 9001
+Wisdom: 10
+Charisma: -1
+Movespeed: 40
+HP: 40
+AC: 11
+Spell Levels: 1:
+    1 - 6
+    2 - 5
+    3 - 4
+    4 - 3
+    5 - 2
+    6 - 1
+    7 - 1
+    8 - 1
+    9 - 3
+Proficiencies:
+    Investigation, I
+    Arcana, I
+    Perception, W
+Misc. Proficiencies:
+    Coding
+    Java
+    C++
+    Keyboards
+Gold: 100000
+Equipment:
+    Asus RoG G50
+    RedDragon 1500
+    100ft Ethernet Cable
+Feats:
+    Lack of Self-Awareness
+    Tunnel Vision
+    Loneliness
+    BS in Computer Science
+
